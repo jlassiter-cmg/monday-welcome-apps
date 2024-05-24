@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "@mondaycom/apps-sdk": "^2.1.2",
+    "@mondaydotcomorg/api": "^3.0.3",
+    "graphql-tag": "^2.12.6",
     "monday-sdk-js": "^0.5.0",
     "monday-ui-react-core": "^1.54.0"
   },
@@ -32,7 +34,7 @@
     ]
   },
   "devDependencies": {
-    "@mondaycom/apps-cli": "^2.0.0",
+    "@mondaycom/apps-cli": "^2.6.0",
     "concurrently": "^5.2.0",
     "cross-port-killer": "^1.2.1",
     "eslint-config-react-app": "^7.0.1",
